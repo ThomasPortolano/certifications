@@ -6,3 +6,4 @@ About 280h of personal work, over 80h of courses. Topic ranges from ES6 Javascri
 
 ## Advanced React @Scrimba
 13h of courses, about 40h of personal work. Includes Reusability, React Router 6 and Performance.
+Certificate available online: https://v1.scrimba.com/certificate/urWmZeAD/greact
